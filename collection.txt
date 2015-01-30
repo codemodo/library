@@ -489,7 +489,7 @@
 ("On Beauty", "Zadie Smith")
 ("On the Duty of Civil Disobedience", "Henry David Thoreau")
 ("On the Road", "Jack Kerouac")
-("One Day in the Life of Ivan Denisovtich", "Alexandr Solzhenitsyn")
+("One Day in the Life of Ivan Denisovich", "Alexandr Solzhenitsyn")
 ("One Flew Over the Cuckoo's Nest", "Ken Kesey")
 ("One Hundred Years of Solitude", "Gabriel Garcia Marquez")
 ("One of Ours", "Willa Cather")
